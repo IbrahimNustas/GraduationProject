@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542529383158",
+    "firebase_url": "https://medicalcompanionbzu.firebaseio.com",
+    "project_id": "medicalcompanionbzu",
+    "storage_bucket": "medicalcompanionbzu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542529383158:android:4002b014b95b0885241ad7",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542529383158-b9kmhlt6quu0apoabqppvp77ssn50lu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBGD7XApjm8xIrsnpF_KTix5JsP-KYtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542529383158-b9kmhlt6quu0apoabqppvp77ssn50lu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
